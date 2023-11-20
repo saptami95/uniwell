@@ -1,0 +1,36 @@
+/* Rectangle 12 */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.checked{
+    color:yellow;
+}
+.container{
+    text-align: center;
+    justify-content: center;
+    border: 1px solid black;
+    width:400px;
+    position: relative;
+    left:350px;
+    height:1250px;
+}
+.option-width{
+    width:180px;
+    height:30px;
+}
+textarea{
+    border-radius: 10px;
+}
+.submit{
+    color:black;
+    background-color: #D83D4C;
+    cursor: pointer;
+    width:150px;
+    height: 40px;
+    border-radius: 10px;
+    position: relative;
+    bottom: -23px;
+    
+}
